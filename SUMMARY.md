@@ -6,4 +6,5 @@
 * [Installation Option 2: Clone Repository](installation-option-2-clone-repository.md)
 * [Installation Continued](installation-continued.md)
 * [Configure Amber Vault](configure-amber-vault.md)
-* [The Config.Json File](the-config.json-file.md)
+* [The config.json file](the-config.json-file.md)
+* [Using FluentCLI](using-fluentcli.md)
