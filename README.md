@@ -23,6 +23,7 @@
 3. [installation-option-2-clone-repository.md](installation-option-2-clone-repository.md "mention")
 4. [installation-continued.md](installation-continued.md "mention")
 5. [configure-amber-vault.md](configure-amber-vault.md "mention")
+6. [the-config.json-file.md](the-config.json-file.md "mention")
 
 
 
