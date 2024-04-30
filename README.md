@@ -22,6 +22,7 @@
 4. [installation-continued.md](installation-continued.md "mention")
 5. [configure-amber-vault.md](configure-amber-vault.md "mention")
 6. [the-config.json-file.md](the-config.json-file.md "mention")
+7. [using-fluentcli.md](using-fluentcli.md "mention")
 
 
 
