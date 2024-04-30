@@ -1,8 +1,6 @@
 # Welcome to FluentCLI
 
-<figure><img src=".gitbook/assets/fluent_logo_small.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/fluent_logo_small-removebg-preview.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
