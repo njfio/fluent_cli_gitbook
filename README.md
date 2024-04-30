@@ -1,3 +1,7 @@
+---
+description: The docs are a work in progress.
+---
+
 # Welcome to FluentCLI
 
 <figure><img src=".gitbook/assets/fluent_logo_small-removebg-preview.png" alt=""><figcaption></figcaption></figure>
@@ -25,16 +29,6 @@
 7. [using-fluentcli.md](using-fluentcli.md "mention")
 
 
-
-#### Basic Usage
-
-Here’s how you can send a basic request to an AI engine using FluentCLI:
-
-```bash
-fluent 
-```
-
-Replace `flowiseai` with `langflow` to switch between AI engines as needed.
 
 ### Support and Contribution
 
